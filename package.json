@@ -1,0 +1,23 @@
+{
+  "name": "portfoliobackend",
+  "version": "1.0.0",
+  "description": "First attempt at full website portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeddyMilford/portfolioBackend.git"
+  },
+  "author": "Teddy Milford",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/TeddyMilford/portfolioBackend/issues"
+  },
+  "homepage": "https://github.com/TeddyMilford/portfolioBackend#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
